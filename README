@@ -1,0 +1,15 @@
+This is pretty much a rip-off off the Wikir example for the Limonade framework.
+
+I modified it to just merge plain HTML files.
+
+What it can do:
+- It has a router, so it can do RESTful stuff.
+- It has limited templating capabilities
+- It is still all about plain HTML files
+
+What it cannot do:
+- anything else, including authentication.
+
+You may like it if the only thing you really want your CMS to do is to conditionally compile HTML like I wanted.
+
+Yes, it's not a beauty!
