@@ -1,17 +1,11 @@
 This is pretty much a rip-off off the Wikir example for the Limonade framework.
-
 https://github.com/organicweb/limonade-wiki-example/
-
 I modified it to just merge plain HTML files.
 
 What it can do:
-- It has a router, so it can do RESTful stuff.
-- It has limited templating capabilities
-- It is still all about plain HTML files
+- It has a router, so it (potentially) can do RESTful stuff.
+- It has limited templating capabilities (as much as php has)
+- It is still all about plain HTML files (if you want to)
 
 What it cannot do:
 - anything else, including authentication.
-
-You may like it if the only thing you really want your CMS to do is to conditionally compile HTML like I wanted.
-
-Yes, it's not a beauty!
