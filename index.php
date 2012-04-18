@@ -40,7 +40,7 @@ dispatch('/', 'page_show_index');
     }
   }
 
-# matches GET /about
+# matches GET /<page>
 dispatch('/:page', 'page_show');
   function page_show()
   {
